@@ -1,2 +1,0 @@
-print ("kls")
-print ("Hi")
